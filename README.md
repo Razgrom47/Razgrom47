@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Indoor Navigation with Robots <br> 👯 I’m looking to collaborate on Networking projects <br> 🤝 I’m looking for help with <br> 🌱 I’m currently learning IT Bachelor of Sience <br> 💬 Ask me about Python :) <br> ⚡ Fun fact 
+🔭 I’m currently working on Indoor Navigation with Robots <br> 👯 I’m looking to collaborate on Networking projects <br> 🤝 I’m looking for help with <br> 🌱 I’m currently learning IT Bachelor of Sience <br> 💬 Ask me about Python :) <br> ⚡ Fun fact  
 
 
 ## 🌐 Socials:
